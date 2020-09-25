@@ -1,0 +1,15 @@
+C:\Users\Max\Desktop\NomeAsciiArt\NomeAsciiArt\bin\Debug\netcoreapp3.1\NomeAsciiArt.exe
+C:\Users\Max\Desktop\NomeAsciiArt\NomeAsciiArt\obj\Debug\netcoreapp3.1\NomeAsciiArt.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\NomeAsciiArt\NomeAsciiArt\obj\Debug\netcoreapp3.1\NomeAsciiArt.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\NomeAsciiArt\NomeAsciiArt\obj\Debug\netcoreapp3.1\NomeAsciiArt.AssemblyInfo.cs
+C:\Users\Max\Desktop\NomeAsciiArt\NomeAsciiArt\bin\Debug\netcoreapp3.1\NomeAsciiArt.deps.json
+C:\Users\Max\Desktop\NomeAsciiArt\NomeAsciiArt\bin\Debug\netcoreapp3.1\NomeAsciiArt.runtimeconfig.json
+C:\Users\Max\Desktop\NomeAsciiArt\NomeAsciiArt\bin\Debug\netcoreapp3.1\NomeAsciiArt.runtimeconfig.dev.json
+C:\Users\Max\Desktop\NomeAsciiArt\NomeAsciiArt\bin\Debug\netcoreapp3.1\NomeAsciiArt.dll
+C:\Users\Max\Desktop\NomeAsciiArt\NomeAsciiArt\bin\Debug\netcoreapp3.1\NomeAsciiArt.pdb
+C:\Users\Max\Desktop\NomeAsciiArt\NomeAsciiArt\bin\Debug\netcoreapp3.1\Figgle.dll
+C:\Users\Max\Desktop\NomeAsciiArt\NomeAsciiArt\obj\Debug\netcoreapp3.1\NomeAsciiArt.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\NomeAsciiArt\NomeAsciiArt\obj\Debug\netcoreapp3.1\NomeAsciiArt.csproj.CopyComplete
+C:\Users\Max\Desktop\NomeAsciiArt\NomeAsciiArt\obj\Debug\netcoreapp3.1\NomeAsciiArt.dll
+C:\Users\Max\Desktop\NomeAsciiArt\NomeAsciiArt\obj\Debug\netcoreapp3.1\NomeAsciiArt.pdb
+C:\Users\Max\Desktop\NomeAsciiArt\NomeAsciiArt\obj\Debug\netcoreapp3.1\NomeAsciiArt.genruntimeconfig.cache
